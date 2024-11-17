@@ -1,0 +1,1 @@
+<?php echo "<p>Copyright &copy; " . date (" Y ") . "rahma@gmail.com</p>"; ?>
